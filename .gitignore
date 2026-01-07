@@ -1,0 +1,27 @@
+# Turborepo
+.turbo
+
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+.next/
+.medusa/
+
+# Environment variables
+.env
+.env*.local
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Testing
+coverage/
