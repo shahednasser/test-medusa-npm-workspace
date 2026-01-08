@@ -59,6 +59,10 @@
   },
   "overrides": {
     "react": "19.0.3",
-    "react-dom": "19.0.3"
+    "react-dom": "19.0.3",
+    "@medusajs/icons": {
+      "react": "19.0.3",
+      "react-dom": "19.0.3"
+    }
   }
 }
